@@ -1,1 +1,3 @@
 # Norrtelje-Monopol
+This game is an implementation of the classic board game, Monopoly, but set in the city of Norrtälje (Norrtelje) located just north of Sweden. The players will roll a dice and walk around the board, if landing on an un-occupaid square the player can opt to buy that property. For every bought property the player can then buy houses and hotels on that square once a whole business group of properties have been bought. The rules are in short reminiscient of the standard rules for Monopoly and the game itself is implemented in Pygame using Python as well as using sockets for communication as an extention of the communication protocol from the INET lab in programming paradigms.
+
